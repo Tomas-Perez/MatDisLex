@@ -1,0 +1,6 @@
+INSERT INTO planDeCuentas values (10000000, 'ACTIVO');
+INSERT INTO planDeCuentas values (11000000, 'ACTIVO CORRIENTE');
+INSERT INTO planDeCuentas values (11100000, 'CAJA Y BANCOS');
+INSERT INTO planDeCuentas values (11300000, 'OTROS CREDITOS');
+INSERT INTO planDeCuentas values (11301000, 'I.V.A. credito fiscal');
+INSERT INTO planDeCuentas values (11302000, 'RETENCIONES   I.V.A.');
